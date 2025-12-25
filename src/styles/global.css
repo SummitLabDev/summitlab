@@ -112,6 +112,11 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Offset for fixed header when jumping to anchors */
+section[id] {
+  scroll-margin-top: 6rem;
+}
+
 body {
   font-family: var(--font-family-body);
   background: linear-gradient(180deg, var(--color-surface-50) 0%, var(--color-surface-100) 100%);
