@@ -2,6 +2,7 @@
 
 **AI-Assisted Workflow for Solo Development**
 
+IMPORTANT: Old username: 'ZenoTWV', new username: 'SummitLabDev'
 ---
 
 ## Core Principle
