@@ -7,6 +7,7 @@ import react from '@astrojs/react';
 export default defineConfig({
   site: 'https://summitlab.dev',
   output: 'static',
+  trailingSlash: 'never',
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
